@@ -117,4 +117,8 @@ Maps are not stored in the order of elements inserted. However when using format
 Page 75
 
 WHen using for-range loop over a string, Go iterates using runes not bytes. UTF-8 converted into single 32bit number and assigned the value.
- 
+
+Page 76
+
+
+
